@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: jackal_description
+    relative_path: urdf/jackal.urdfcopy.xacro
+  SRDF:
+    relative_path: config/jackal.srdf
+  CONFIG:
+    author_name: Hassan Shehawy
+    author_email: hassan.shehawi@ieee.org
+    generated_timestamp: 1505571182

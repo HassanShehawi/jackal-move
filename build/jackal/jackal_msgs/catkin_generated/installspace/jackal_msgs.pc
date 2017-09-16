@@ -1,0 +1,8 @@
+prefix=/home/hassan/jackal-move/install
+
+Name: jackal_msgs
+Description: Description of jackal_msgs
+Version: 0.5.3
+Cflags: -I/home/hassan/jackal-move/install/include
+Libs: -L/home/hassan/jackal-move/install/lib 
+Requires: std_msgs message_runtime

@@ -1,0 +1,8 @@
+prefix=/home/hassan/jackal-move/install
+
+Name: jackal_move_cfg
+Description: Description of jackal_move_cfg
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/hassan/jackal-move/install/lib 
+Requires: 

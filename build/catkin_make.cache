@@ -1,0 +1,2 @@
+jackal/jackal_control:jackal/jackal_description:jackal/jackal_msgs:jackal/jackal_navigation:jackal/jackal_tutorials:jackal_move_cfg
+-DCATKIN_DEVEL_PREFIX=/home/hassan/jackal-move/devel -DCMAKE_INSTALL_PREFIX=/home/hassan/jackal-move/install -G Unix Makefiles

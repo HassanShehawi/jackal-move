@@ -1,0 +1,8 @@
+prefix=/home/hassan/jackal-move/devel
+
+Name: jackal_control
+Description: Description of jackal_control
+Version: 0.5.3
+Cflags: 
+Libs: -L/home/hassan/jackal-move/devel/lib 
+Requires: 
