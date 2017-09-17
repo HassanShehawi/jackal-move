@@ -1,0 +1,8 @@
+prefix=/home/hassan/jackal-move/install
+
+Name: movejak
+Description: Description of movejak
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hassan/jackal-move/install/lib 
+Requires: 
