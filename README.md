@@ -1,7 +1,7 @@
 # jackal-move
 Moving jackal to a location while avoiding an obstacle.
 ***************
-Run: https://youtu.be/phZm3-GTnPc
+Run video on YouTube: https://youtu.be/phZm3-GTnPc
 ***************
 To run it:
 roslaunch jackal_gazebo jackal_world.launch config:=front_laser
